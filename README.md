@@ -1,5 +1,5 @@
 
-# Communicate Data Findins 
+# Communicate Data Findings 
 
 # LoanProsper
 In this <a href='https://github.com/TyDataSci/LoanProsper/blob/master/visualization.ipynb'> notebook</a>, I will explore the Prosper Loan dataset that can be downloaded by clicking here. Prosper was the first peer-to-peer lender in the United States and since 2005, Prosper has facilitated more than $18 billion in loans to more than 1,080,000 people. The Prosper Loan dataset details 113937 loans lent by Prosper from 2005 to 2014.
